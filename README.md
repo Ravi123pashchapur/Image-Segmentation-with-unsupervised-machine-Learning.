@@ -17,5 +17,6 @@
 *** Results of K-mean ***
 
 ![3](https://user-images.githubusercontent.com/56997905/174434215-9f9bb924-8a0a-4fa2-8ada-1b0ffc799769.jpg)
-![18](https://user-images.githubusercontent.com/56997905/174434221-a0811a53-ca4c-433a-8318-90851dc039c1.jpg)
-![12](https://user-images.githubusercontent.com/56997905/174434233-61bbfe24-ae34-4444-8438-43028bf50056.jpg)
+![9](https://user-images.githubusercontent.com/56997905/174434265-af3abafa-f1d8-41ce-ac83-41df026bfdd6.jpg)
+![11](https://user-images.githubusercontent.com/56997905/174434268-f544b0a5-85e4-45d0-b81c-308db2e9ad52.jpg)
+
